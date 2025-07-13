@@ -17,5 +17,7 @@ A beginner-friendly desktop application built with Python's `tkinter` library th
 
 ## 📸 Screenshots
 
+> ![image alt][https://github.com/HarshaRaj165/Number_Guessing_Game_Using_Python/blob/93c25a28a7d3187a22acc4384aea813fd8248c54/Screenshot%20.png]
+>![image alt][]
 > ![image alt][]
-
+> ![image alt][]
