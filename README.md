@@ -4,6 +4,12 @@ A beginner-friendly desktop application built with Python's `tkinter` library th
 
 ---
 
+🎯 Overview: 
+
+The Number Guessing Game is an engaging and interactive desktop application built using Python and its Tkinter library for the graphical user interface. It’s a classic game where the user tries to guess a randomly generated number within a specified range. The application provides real-time feedback and helps beginners understand event-driven programming and GUI development.
+
+---
+
 ## 📌 Features
 
 - ✅ Interactive GUI using Python's `tkinter`
