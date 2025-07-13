@@ -22,6 +22,8 @@ A beginner-friendly desktop application built with Python's `tkinter` library th
 > ![image alt](https://github.com/HarshaRaj165/Number_Guessing_Game_Using_Python/blob/3a63fa85db19eed54d7e4c9a8fb708696756cf67/Screenshot_TooLow.png)
 >![image alt]()
 
+---
+
 🛠️ Built With
 
 .🐍 Python 3.x
@@ -32,6 +34,7 @@ A beginner-friendly desktop application built with Python's `tkinter` library th
 
 .✅ messagebox
 
+---
 
 ✅ Conclusion
 
