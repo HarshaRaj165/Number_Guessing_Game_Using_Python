@@ -24,13 +24,14 @@ A beginner-friendly desktop application built with Python's `tkinter` library th
 
 🛠️ Built With
 
-🐍 Python 3.x
+.🐍 Python 3.x
 
-🎨 Tkinter
+.🎨 Tkinter
 
-🎲 random
+.🎲 random
 
-✅ messagebox
+.✅ messagebox
+
 
 ✅ Conclusion
 
